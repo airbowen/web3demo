@@ -1,7 +1,8 @@
 # web3demo
 
-# npm insatll 
+to install all the dependent：
+npm insatll 
 
-# npm run serve 
+npm run serve 
 
 
