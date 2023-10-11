@@ -1,8 +1,20 @@
 # web3demo
 
-to install all the dependent：
-npm insatll 
+# web3-wallet-app
 
-npm run serve 
+## Project setup
 
+```
+npm install
+```
 
+### Compiles and hot-reloads for development
+
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+
+```
+npm run build
